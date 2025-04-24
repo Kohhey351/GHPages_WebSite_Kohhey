@@ -50,4 +50,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite_Kohhey/assets/images/logo-150.png)
+![image](/GHPages_WebSite_Kohhey/assets/images/png-transparent-kirby-s-return-to-dream-land-kirby-air-ride-kirby-planet-robobot-kirby-triple-deluxe-kirby-s-epic-yarn-kirby-game-nintendo-eating-thumbnail.png)
