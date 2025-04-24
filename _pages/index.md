@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "近大カービィ同好会"
 author: default
 permalink: /
 ---
