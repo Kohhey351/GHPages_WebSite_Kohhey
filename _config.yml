@@ -1,4 +1,4 @@
-title: "GitHubPages勉強会"
+title: "カービィ"
 
 lang: ja
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -16,7 +16,7 @@ title_separator: "|"
 minimal_mistakes_skin: "air" # 全体の色合い
 
 breadcrumbs: true
-logo: "/assets/images/logo-150.png"
+logo: "/assets/images/png-transparent-kirby-s-return-to-dream-land-kirby-air-ride-kirby-planet-robobot-kirby-triple-deluxe-kirby-s-epic-yarn-kirby-game-nintendo-eating-thumbnail.png"
 include:
   - _pages
 
@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       header:
-        overlay_image: /assets/images/header.png
+        overlay_image: /assets/images/rectangle_large_type_2_22b196fe8a67550735351089b16124d1.png
         overlay_filter: 0.5
   # pages
   - scope:
