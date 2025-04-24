@@ -23,8 +23,6 @@ permalink: /
 ##### クラッコのおいしい飲み物（うろ覚え）
 ###### 感想
 
-改行は、行末に半角スペースを2個いれる
-次の行
 
 [リンク](https://www.google.co.jp/)
 [deepl](https://www.deepl.com/ja/translator)
