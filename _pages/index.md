@@ -29,28 +29,5 @@ permalink: /
 [リンク](https://www.google.co.jp/)
 [deepl](https://www.deepl.com/ja/translator)
 
-**太字**
-**デカ**
-> 引用
->> 多重引用
-
-
-- 箇条書きリスト
-  - ネスト
-    - さらにネスト
-      - さらにさらにネスト
-
-
-1. 番号付きリスト
-   1. ネスト
-      1. さらにネスト
-      2. ね
-         1. さらにさらにネスト
-
-
-| 列1  | 列2  |
-|-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
 
 ![image](/GHPages_WebSite_Kohhey/assets/images/png-transparent-kirby-s-return-to-dream-land-kirby-air-ride-kirby-planet-robobot-kirby-triple-deluxe-kirby-s-epic-yarn-kirby-game-nintendo-eating-thumbnail.png)
